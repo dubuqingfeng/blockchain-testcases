@@ -35,3 +35,21 @@ https://www.oklink.com/btc/block/91880
 
 1.https://zhuanlan.zhihu.com/p/92792990
 2.https://blog.bitmex.com/zh_cn-bitcoins-consensus-forks/
+
+
+## 
+
+include OP_RETURN   ea58eb5b078f4d461e6cebb0db7ee376aed1be62be29e80ecbe8fcaad438e216
+政治敏感言论  51c949113bd11e319b100646540e8ed0920e52c6e62878b21b5ac59a5a0e478c
+1 output have multi address BIP 11 M-of-N Standard Transactions
+09dd94f2c85262173da87a745a459007bb1eed6eeb6bfa238a0cd91a16cf7790
+1180df8ad1bfab0ab43f9e57ecf7fd3eb4c5d5e3a96af2ecc51113c3e88fcfe1
+
+BIP 30 Duplicate transactions (Coinbase)
+d5d27987d2a3dfc724e359870c6644b40e497bdc0589a033220fe15429d88599
+
+Block 91842 00000000000a4d0a398161ffc163c503763b1f4360639393e0e4c8e300e0caec
+Block 91812 00000000000af0aed4792b1acee3d966af36cf5def14935db8de83d6f9306f2f
+e3bf3d07d4b0375638d5f1db5255fe07ba2c4cb067cd81b84ee974b6585fb468
+Block 91880 00000000000743f190a18c5577a3c2d2a1f610ae9601ac046a38084ccb7cd721
+Block 91722 00000000000271a2dc26e7667f8419f2e15416dc6955e5a6c6cdf3f2574dd08e
