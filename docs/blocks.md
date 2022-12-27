@@ -1,6 +1,5 @@
 ## blocks
 
-
 ### btc 501726
 
 Block 501726 is the emptiest block: even the coinbase reward is unclaimed. 
